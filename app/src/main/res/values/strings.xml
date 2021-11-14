@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CreditCalculator</string>
+    <string name="credit_score">Your credit score is</string>
+    <string name="out_of">out of %1$d</string>
+    <string name="client_ref">Client Ref:\n%1$s</string>
+    <string name="score_band">Score Band:\n%1$s</string>
+    <string name="status">Status:\n%1$s</string>
+</resources>
